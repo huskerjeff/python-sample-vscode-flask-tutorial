@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/huskerjeff4920522/PythonFlaskMSExample/_apis/build/status/huskerjeff.python-sample-vscode-flask-tutorial?branchName=master)](https://dev.azure.com/huskerjeff4920522/PythonFlaskMSExample/_build/latest?definitionId=5&branchName=master)
+https://dev.azure.com/huskerjeff4920522/PythonFlaskMSExample/_apis/build/status/huskerjeff.python-sample-vscode-flask-tutorial?branchName=master
 
 # Python/Flask Tutorial for Visual Studio Code
 
